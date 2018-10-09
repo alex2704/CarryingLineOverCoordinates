@@ -1,0 +1,10 @@
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\obj\Debug\Task3.Form1.resources
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.Cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\1 аттестация\Task3\Task3\obj\Debug\Task3.pdb
